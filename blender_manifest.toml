@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "bake_instance_animation"
+version = "1.0.2"
+name = "Bake Instance Animation (烘焙几何节点实例动画)"
+tagline = "Bake geometry nodes instance animation to keyframe animation"
+maintainer = "ChyiZ"
+type = "add-on"
+tags = ["Node", "Geometry Nodes"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/qizhen2021/Bake-Instance-Animation"
