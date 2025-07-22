@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Bake Instance Animation (烘焙几何节点实例动画)",
     "author": "ChyiZ_",
-    "version": (1, 0, 1),
+    "version": (1, 0, 3),
     "blender": (4, 5, 0),
     "location": "View3D > Sidebar > BIA",
     "description": "Bake geometry nodes instance animation to keyframe animation(烘焙几何节点实例动画为关键帧动画)",

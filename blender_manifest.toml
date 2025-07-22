@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 id = "bake_instance_animation"
-version = "1.0.2"
+version = "1.0.3"
 name = "Bake Instance Animation (烘焙几何节点实例动画)"
 tagline = "Bake geometry nodes instance animation to keyframe animation"
 maintainer = "ChyiZ"
